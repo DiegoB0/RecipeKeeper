@@ -1,0 +1,13 @@
+.navbar {
+  background-color: var(--color-primary);
+  padding: 10px;
+}
+
+.nav-link {
+  color: white;
+  margin-right: 10px;
+}
+
+.nav-link:hover {
+  color: #e5e7eb;
+}
